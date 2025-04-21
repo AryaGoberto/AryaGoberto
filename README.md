@@ -37,3 +37,13 @@
 </p>
 
 ---
+
+<h3 align="left">My GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryaGoberto&show_icons=true&count_private=true&hide=prs&locale=en" alt="stats" />
+</p>
+
+<h3 align="left">Top Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryaGoberto&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+</p>
