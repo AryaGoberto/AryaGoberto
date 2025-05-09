@@ -3,6 +3,13 @@
 
 ---
 
+<h3 align="left">📌 Current Project</h3>
+<p align="left">
+  I'm currently working on <strong><a href="https://github.com/AryaGoberto/PaintAndroidApp" target="_blank">PaintAndroidApp</a></strong> — a simple yet powerful Android app that lets users draw, paint, and express their creativity on a digital canvas. Built using Kotlin, it emphasizes clean UI/UX and touch interactions for a smooth drawing experience.
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
