@@ -5,7 +5,7 @@
 
 <h3 align="left">📌 Current Project</h3>
 <p align="left">
-  I'm currently working on <strong><a href="https://github.com/AryaGoberto/PaintAndroidApp" target="_blank">PaintAndroidApp</a></strong> — a simple yet powerful Android app that lets users draw, paint, and express their creativity on a digital canvas. Built using Kotlin, it emphasizes clean UI/UX and touch interactions for a smooth drawing experience.
+  I'm currently working on <strong><a href="https://github.com/AryaGoberto/Calculator_App" target="_blank">PaintAndroidApp</a></strong> — a simple yet powerful Android app that lets users draw, paint, and express their creativity on a digital canvas. Built using Kotlin, it emphasizes clean UI/UX and touch interactions for a smooth drawing experience.
 </p>
 
 ---
