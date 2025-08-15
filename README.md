@@ -3,10 +3,9 @@
 
 ---
 
-<h3 align="left">📌 Current Project</h3>
+<h3 align="left">👋 Introduction</h3>
 <p align="left">
-  I'm currently working on <strong><a href="https://github.com/AryaGoberto/Calculator_App" target="_blank">Calculator App</a></strong> — a simple yet powerful Android app that lets users draw, paint, and express their creativity on a digital canvas. Built using Kotlin, it emphasizes clean UI/UX and touch interactions for a smooth drawing experience.
-</p>
+Hi, my name is Arya. I’m a 5th-semester student majoring in Informatics Engineering at Hasanuddin University. I’m passionate about Data Science, Mobile Development, and Capture The Flag (CTF). Currently, I’m focused on improving my skills through hands-on projects and self-learning.</p>
 
 ---
 
