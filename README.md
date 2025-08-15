@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Gunavaro Goberto</h1>
-<h3 align="center">An Android Developer who loves UI/UX and building functional mobile apps 📱</h3>
+<h3 align="center">A Mobile Developer & Data Enthusiast</h3>
 
 ---
 
