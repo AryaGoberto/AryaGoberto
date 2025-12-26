@@ -5,7 +5,7 @@
 
 <h3 align="left">👋 Introduction</h3>
 <p align="left">
-Hi, my name is Arya. I’m a 5th-semester student majoring in Informatics Engineering at Hasanuddin University. I’m passionate about Data Science, Mobile Development, and Capture The Flag (CTF). Currently, I’m focused on improving my skills through hands-on projects and self-learning.</p>
+Hi, my name is Arya. I’m a 6th-semester student majoring in Informatics Engineering at Hasanuddin University. I’m passionate about Data Science, Mobile Development, and Capture The Flag (CTF). Currently, I’m focused on improving my skills through hands-on projects and self-learning.</p>
 
 ---
 
@@ -48,10 +48,7 @@ Hi, my name is Arya. I’m a 5th-semester student majoring in Informatics Engine
   </a>
 </p>
 
-<h3 align="left">Top Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryaGoberto&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
+
 ---
 
 
