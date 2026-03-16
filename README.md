@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya Gunavaro</h1>
 
 <p align="center">
-  Data Science Enthusiast • Mobile Developer • Tech Explorer
+  Data Science Enthusiast • Mobile Developer 
 </p>
 
 <p align="center">
@@ -14,9 +14,8 @@
 
 📍 I am **Arya Gunavaro from Indonesia**  
 💻 Interested in **Data Science, Mobile Development, and Software Engineering**  
-🌱 Currently exploring **Java ecosystem and the Spring Framework family**  
+📊 Currently joining DBS **Coding Camp 2026**  
 🔍 I enjoy learning new technologies and building projects to explore them  
-🍦 Fun fact: I love **ice cream while coding** to make the code look cooler 😸  
 
 ---
 
